@@ -12,7 +12,7 @@ I'm an **Application Developer** passionate about building intelligent, user-cen
 - 🌱 I'm learning **advanced AI agent architectures and multi-modal interactions**
 - 👯 I'm looking to collaborate on **innovative app development and AI-driven solutions**
 - 💡 Ask me about **React Native, Python, creative coding with P5.js, and intelligent app design**
-- 📫 Reach me at **jia.developer@example.com** (update with your email)
+- 📫 Reach me at **jiamalik7654@gmail.com** 
 - ⚡ Fun fact: I love learning languages—both speaking and coding! 🌍💻
 
 ---
